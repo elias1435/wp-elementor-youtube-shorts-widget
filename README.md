@@ -1,5 +1,5 @@
 ## 📸 Image Preview
-![Preview](https://github.com/elias1435/Shopify-Product-Info-Splide-Slider-Video-Image-/blob/main/Product-information-splide-slider.jpg?raw=true)
+![Preview](https://github.com/elias1435/wp-elementor-youtube-shorts-widget/blob/main/Edit%20_Video%20Testimonials_%20with%20Elementor.jpg?raw=true)
 
 
 # Elementor YouTube Shorts Embed (Widget + Grid)
